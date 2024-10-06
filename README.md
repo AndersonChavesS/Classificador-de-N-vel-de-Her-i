@@ -1,6 +1,6 @@
 # Desafio Classificador de nível de Herói
 
-### **O Que deve ser utilizado**
+## **O Que deve ser utilizado**
 
 - Variáveis
 - Operadores
