@@ -1,6 +1,10 @@
 # Desafio Classificador de nível de Herói
 
+<<<<<<< HEAD
 ## **O Que deve ser utilizado**
+=======
+### **O Que deve ser utilizado**
+>>>>>>> 075636b653f5df6788fa91209af35edf70c3ed56
 
 - Variáveis
 - Operadores
